@@ -12,3 +12,9 @@ Agent’s observation serves as the input to the policy model, and the action se
 ![MAPOCA2](https://raw.githubusercontent.com/ICSRC/2024ICVRV/main/MAPOCA.png)
 
 
+### 3. Training parameters
+![para](https://raw.githubusercontent.com/ICSRC/2024ICVRV/main/para.png)
+
+
+### 4. Reward signals
+![para](https://raw.githubusercontent.com/ICSRC/2024ICVRV/main/reward.png)
