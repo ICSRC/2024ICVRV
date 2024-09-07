@@ -9,3 +9,4 @@
 
 ### 2. Model group with MAPOCA
 Agent’s observation serves as the input to the policy model, and the action serves as the output.
+![MAPOCA2](https://raw.githubusercontent.com/ICSRC/2024ICVRV/main/MAPOCA.png)
