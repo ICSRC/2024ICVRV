@@ -1,4 +1,4 @@
-# 2024ICVRV-Supplementary `Materials`
+# 2024ICVRV-Supplementary Materials
 
 
 ## A Task-driven Group Cooperative Crowd Simulation Framework via Multi Agent Reinforcement Learning
